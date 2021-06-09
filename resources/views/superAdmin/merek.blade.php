@@ -61,7 +61,7 @@
 
                 <thead>
                 <tr style="background-color: Gainsboro;">
-                    <th scope="col">Gambar</th>
+                    <th scope="col">Gambar Merek</th>
                     <th scope="col">Nama Merek</th>
                     <th scope="col"></th>
                 </tr>
