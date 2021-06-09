@@ -1,0 +1,27 @@
+.fb{
+	background-color: #EAEAEA;
+}
+.fb:before,
+.fb:after {
+	content: "f09a";
+	position: absolute;
+	width: 100%;
+    height: 100%;
+	left: 0;
+}
+.fb:before {
+	top: 0;
+}
+.fb:after {
+	top: 100%;
+	color: #FFFFFF;
+}
+.fb:hover {
+	background-color: #3b5998;
+}
+.fb:hover:after {
+	top: 0;
+}
+.fb:hover:before {
+	top: -100%;
+}

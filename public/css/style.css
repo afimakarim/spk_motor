@@ -1,0 +1,21 @@
+/* html{
+    position: relative;
+    min-height: 100%;
+}
+body{
+    margin-bottom: 70px;
+} */
+#footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(58, 58, 58);
+    font-size: 0.9em;
+    height: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#box{
+    position: relative;
+}
